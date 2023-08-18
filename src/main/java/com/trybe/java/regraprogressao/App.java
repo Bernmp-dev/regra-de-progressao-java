@@ -9,6 +9,6 @@ public class App {
    * Metodo main.
    */
   public static void main(String[] args) {
-    System.out.println("Initial Commit.");
+    ExamManager newInst = new ExamManager();
   }
 }
